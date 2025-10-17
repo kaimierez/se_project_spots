@@ -1,7 +1,3 @@
-[!NOTE]
-
-<Dear reviewer, I'm not sure if I can put notes on my submittion so i'll put them here. I have not completed the pitch video yet but wanted to submit and make sure the code is correct. If possible can you please review without it and when it comes back incomplete i'll correct any mistakes and record the pitch video? Thank you!>
-
 # Project 3: Spots
 
 An image sharing site.
